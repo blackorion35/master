@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SZSolution ToolsVersion="3.0" Name="Mantrix_osprog" MainProject="Mantrix">
+  <Project Name="Mantrix" File="Mantrix\Mantrix.szproj" />
+  <GenerationOrder Name="Mantrix" />
+</SZSolution>
