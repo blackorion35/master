@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SZProject ToolsVersion="3.0" Name="Mantrix">
+  <Type value="0" />
+  <ShutMode value="0" />
+  <FormStart value="MdiForm1.szw" />
+  <SplashScreen value="" />
+  <StyleXP value="True" />
+  <Instance value="True" />
+  <MySettings value="True" />
+  <Assembly.Title value="Mantrix" />
+  <Assembly.Description value="" />
+  <Assembly.Socity value="Algostep Company" />
+  <Assembly.Product value="Mantrix" />
+  <Assembly.Copyright value="Copyright © Algostep Company 2013" />
+  <Assembly.FileVersion value="1.1.0.0" />
+  <Assembly.AssemblyVersion value="1.1.0.0" />
+  <Assembly.Mark value="Mantrix™" />
+  <Assembly.Guid value="e7cac238-dc33-42d1-9cc6-e0a6fb7fcfc2" />
+  <GenerateDirectory value="Bin" />
+  <Optimize value="True" />
+  <Cpu value="2" />
+  <ObfuscationLevel value="1" />
+  <ShouldCompile value="True" />
+  <Open name="connexion_setup.szw" />
+  <Open name="Manavig_web.szw" />
+  <Open name="Form1.szw" />
+  <Open name="ico_bureautique_ico.szw" />
+  <Open name="mantrix_presentation_ers.szw" />
+  <Open name="Mantrix_Session_Persousers.szw" />
+  <Open name="MdiForm1.szw" />
+  <Open name="demande_de_closesession.szw" />
+  <Open name="verouillage_session_perso.szw" />
+  <Open name="verouillage_infos.szw" />
+  <Open name="gestionnaire_users.szw" />
+  <Open name="pare_feu_control_mantrix.szw" />
+  <Open name="Terminal_Mantrix_OfficialPatch.szw" />
+  <Open name="cloud_application_mantrix.szw" />
+  <Open name="anti_virus.szw" />
+  <Open name="ico_internet_ico.szw" />
+  <Open name="changed_desktopimage.szw" />
+  <Open name="PARAMETREDUPROJET" />
+  <Open name="config_internet_system.szw" />
+  <Open name="protocole_ftp.szw" />
+  <Open name="users_renseignements.szw" />
+  <Open name="memo_texte_widgets.szw" />
+  <Open name="calendar_process.szw" />
+  <Open name="ico_parametres_ico.szw" />
+  <Open name="apercu_3D_infinitydesktop.szw" />
+  <Open name="gestionnaire_fichiers.szw" />
+  <Open name="texteditor_blocnotes.szw" />
+  <Open name="applidownload.szw" />
+  <Open name="game_one.szw" />
+  <Open name="parametres_trois_dimensions_sdk.szw" />
+  <Open name="ico_firewall_ico.szw" />
+  <Open name="Interface_Funny_Mantrix.szw" />
+  <Open name="Interface_Coober.szw" />
+  <Open name="game_vb_mordus.szw" />
+  <Open name="game_vb_piano.szw" />
+  <Open name="aides_infos_mantrix_infinitybar.szw" />
+  <Open name="applicativ_mouvements.szw" />
+  <Open name="sound_modifier.szw" />
+  <Open name="services_denoyautage.szw" />
+  <Open name="create_and_join_domaine.szw" />
+  <Open name="joindre_domaine_existant.szw" />
+  <Open name="create_domaine_mantrix.szw" />
+  <Open name="demande_connexion_avecdomaine.szw" />
+  <Open name="racc_infinitydesktop_creator.szw" />
+  <Open name="gestionnaire_taches.szw" />
+  <Variable name="adresse_var" array="False" description="" group="Défaut" null="False" />
+  <Variable name="age_var" array="False" description="" group="Défaut" null="False" />
+  <Variable name="aleatoire_code" array="False" description="code aleatoire determinant le nom du système physique hebergeant virtuellement Mantrix" group="Défaut" null="False" />
+  <Variable name="anti_faille_gestionnaire_users" array="False" description="Anti faille pour la gestion des utilisateurs ce qui empeche la mise en mémoire temporaire d'une session" group="Défaut" null="False" />
+  <Variable name="app_determin_serialportSMS" array="False" description="application Serial Port SMS" group="Défaut" null="False" />
+  <Variable name="app_game_demineurflash" array="False" description="" group="Défaut" null="False" />
+  <Variable name="applis_choisie" array="False" description="determine le lien d'accès à l'application choisie avant de l'ouvrir" group="Défaut" null="False" />
+  <Variable name="BSOD_SCREEN_OSD" array="False" description="Ecran de la mort BSOD style W8RTM de Microsoft" group="Défaut" null="False" />
+  <Variable name="change_passwd_deuxfois" array="False" description="" group="Défaut" null="False" />
+  <Variable name="change_passwd_unefois" array="False" description="" group="Défaut" null="False" />
+  <Variable name="CLose_validdeux" array="False" description="" group="Défaut" null="False" />
+  <Variable name="Close_validtrois" array="False" description="" group="Défaut" null="False" />
+  <Variable name="Close_validun" array="False" description="" group="Défaut" null="False" />
+  <Variable name="connaitre_domname" array="False" description="Domaine possible depuis la version 1.1.1.414" group="Défaut" null="False" />
+  <Variable name="connaitre_hostname" array="False" description="" group="Défaut" null="False" />
+  <Variable name="cp_var" array="False" description="" group="Défaut" null="False" />
+  <Variable name="createnewfile_gest_var" array="False" description="" group="Défaut" null="False" />
+  <Variable name="dateanniv_var" array="False" description="" group="Défaut" null="False" />
+  <Variable name="demande_de_closesession_var" array="False" description="" group="Défaut" null="False" />
+  <Variable name="Determin_blokroot_order" array="False" description="determie un fichier de blocage créer par root dans l'intention d'empecher un utilisateur X a lancer un programme Y" group="Défaut" null="False" />
+  <Variable name="determin_calendrierwidgets" array="False" description="" group="Défaut" null="False" />
+  <Variable name="determin_colorinfinitybar" array="False" description="" group="Défaut" null="False" />
+  <Variable name="Determin_connexioninternet_ok" array="False" description="" group="Défaut" null="False" />
+  <Variable name="Determin_desktopimage" array="False" description="determine le dernier fond d'écran affiché et le recharge par défaut" group="Défaut" null="False" />
+  <Variable name="determin_domname_existe" array="False" description="" group="Défaut" null="False" />
+  <Variable name="determin_hostnamefile" array="False" description="" group="Défaut" null="False" />
+  <Variable name="determin_licencekey" array="False" description="determine la clé de licence de Mantrix ERS" group="Défaut" null="False" />
+  <Variable name="Determin_mdp_deverrouillage" array="False" description="" group="Défaut" null="False" />
+  <Variable name="determin_newuser_exist" array="False" description="" group="Défaut" null="False" />
+  <Variable name="determin_passwd_idempasswd" array="False" description="" group="Défaut" null="False" />
+  <Variable name="determin_prenom_var" array="False" description="determiner si au moins le prenom existe sinon on affiche rien" group="Défaut" null="False" />
+  <Variable name="Determin_restriction_cinq" array="False" description="" group="Défaut" null="False" />
+  <Variable name="Determin_restriction_deux" array="False" description="" group="Défaut" null="False" />
+  <Variable name="Determin_restriction_quatre" array="False" description="" group="Défaut" null="False" />
+  <Variable name="Determin_restriction_six" array="False" description="" group="Défaut" null="False" />
+  <Variable name="Determin_restriction_trois" array="False" description="" group="Défaut" null="False" />
+  <Variable name="Determin_restriction_un" array="False" description="" group="Défaut" null="False" />
+  <Variable name="determin_si_domaine_existant" array="False" description="" group="Défaut" null="False" />
+  <Variable name="determin_suppression_root" array="False" description="" group="Défaut" null="False" />
+  <Variable name="determin_userfile" array="False" description="" group="Défaut" null="False" />
+  <Variable name="Determin_username_restreint" array="False" description="" group="Défaut" null="False" />
+  <Variable name="determin_users_exist_passwdchange" array="False" description="" group="Défaut" null="False" />
+  <Variable name="determin_users_root" array="False" description="" group="Défaut" null="False" />
+  <Variable name="domainename_connexion" array="False" description="appel pour le nom de domaine si domaine existant" group="Défaut" null="False" />
+  <Variable name="domname_appel" array="False" description="" group="Défaut" null="False" />
+  <Variable name="emploi_var" array="False" description="" group="Défaut" null="False" />
+  <Variable name="gest_applis_dossier" array="True" description="obtention des dossiers" group="Défaut" null="False" />
+  <Variable name="gest_applis_fichiers" array="True" description="obtention des fichiers" group="Défaut" null="False" />
+  <Variable name="gest_applis_fichiers_extension" array="False" description="affiche également l'extension des fichiers d'applications pour le lancement des fichiers *.exe (executables) après la compilation en packages validés par Mantrix" group="Défaut" null="False" />
+  <Variable name="gest_applis_finboucle" array="False" description="" group="Défaut" null="False" />
+  <Variable name="gest_determin_divers" array="False" description="" group="Défaut" null="False" />
+  <Variable name="gest_determin_images" array="False" description="" group="Défaut" null="False" />
+  <Variable name="gest_determin_musiques" array="False" description="" group="Défaut" null="False" />
+  <Variable name="gest_determin_videos" array="False" description="" group="Défaut" null="False" />
+  <Variable name="gest_finboucle" array="False" description="" group="Défaut" null="False" />
+  <Variable name="gest_lecture_fichier_et_dossier" array="False" description="Gestionnaire de fichier integre" group="Défaut" null="False" />
+  <Variable name="gest_obtenir_dossier" array="True" description="VAR TABLEAU" group="Défaut" null="False" />
+  <Variable name="gest_obtenir_fichier" array="True" description="VAR TABLEAU" group="Défaut" null="False" />
+  <Variable name="gest_obtenirnamefile" array="True" description="VAR TABLEAU" group="Défaut" null="False" />
+  <Variable name="gest_ouverture_filetexte" array="False" description="" group="Défaut" null="False" />
+  <Variable name="gest_startboucle" array="False" description="" group="Défaut" null="False" />
+  <Variable name="gest_startboucle_file" array="False" description="" group="Défaut" null="False" />
+  <Variable name="gest_time_modif_username" array="False" description="obtient la derniere heure de modification du fichier comptant son ouverture de la session" group="Défaut" null="False" />
+  <Variable name="hobbies_var" array="False" description="" group="Défaut" null="False" />
+  <Variable name="Horloge" array="False" description="Horloge temps reel du bureau de mantrix" group="Défaut" null="False" />
+  <Variable name="ico_internet" array="False" description="" group="Défaut" null="False" />
+  <Variable name="ico_parametres" array="False" description="" group="Défaut" null="False" />
+  <Variable name="icobur_CLA" array="False" description="" group="Défaut" null="False" />
+  <Variable name="iconet_CLA" array="False" description="" group="Défaut" null="False" />
+  <Variable name="icopara_CLA" array="False" description="" group="Défaut" null="False" />
+  <Variable name="icopare_CLA" array="False" description="" group="Défaut" null="False" />
+  <Variable name="ID_username" array="False" description="Clé d'ID (Identification Directe) d'un utilisateur, change selon les sessions uniques ouvertes (indispensable pour certains programmes !)" group="Défaut" null="False" />
+  <Variable name="langue_deux_var" array="False" description="" group="Défaut" null="False" />
+  <Variable name="langue_un_var" array="False" description="" group="Défaut" null="False" />
+  <Variable name="lecture_du_domaine" array="False" description="appel et stockage du nom de domaine" group="Défaut" null="False" />
+  <Variable name="lecture_licencekey" array="False" description="" group="Défaut" null="False" />
+  <Variable name="lecture_password" array="False" description="" group="Défaut" null="False" />
+  <Variable name="lire_domainename_exist" array="False" description="stock le domaine pour l'identifier au nom du PC" group="Défaut" null="False" />
+  <Variable name="lire_fichierblocnotes" array="False" description="" group="Défaut" null="False" />
+  <Variable name="lire_hostname_attrib" array="False" description="" group="Défaut" null="False" />
+  <Variable name="lire_memotexteperso" array="False" description="" group="Défaut" null="False" />
+  <Variable name="lire_stopmsgbox" array="False" description="Determine, selon l'utilisateur, si on doit afficher le message de bienvenue (sous forme de fenetre) ou non. Depend du choix d'un utilisateur specifique." group="Défaut" null="False" />
+  <Variable name="lire_web_cinq" array="False" description="" group="Défaut" null="False" />
+  <Variable name="lire_web_deux" array="False" description="" group="Défaut" null="False" />
+  <Variable name="lire_web_quatre" array="False" description="" group="Défaut" null="False" />
+  <Variable name="lire_web_six" array="False" description="" group="Défaut" null="False" />
+  <Variable name="lire_web_trois" array="False" description="" group="Défaut" null="False" />
+  <Variable name="lire_web_un" array="False" description="" group="Défaut" null="False" />
+  <Variable name="mantrix_termianl_actiion" array="False" description="action-i (actiion)" group="Défaut" null="False" />
+  <Variable name="Mask_verif_cinq" array="False" description="" group="Défaut" null="False" />
+  <Variable name="Mask_verif_deux" array="False" description="" group="Défaut" null="False" />
+  <Variable name="Mask_verif_huit" array="False" description="" group="Défaut" null="False" />
+  <Variable name="Mask_verif_quatre" array="False" description="" group="Défaut" null="False" />
+  <Variable name="Mask_verif_sept" array="False" description="" group="Défaut" null="False" />
+  <Variable name="Mask_verif_six" array="False" description="" group="Défaut" null="False" />
+  <Variable name="Mask_verif_trois" array="False" description="" group="Défaut" null="False" />
+  <Variable name="Mask_verif_un" array="False" description="" group="Défaut" null="False" />
+  <Variable name="matrice_lisible" array="False" description="variable servant de processus unique  a l'apercu 3D" group="Défaut" null="False" />
+  <Variable name="mdpx_domaine_facultatif" array="False" description="" group="Défaut" null="False" />
+  <Variable name="naissance_var" array="False" description="" group="Défaut" null="False" />
+  <Variable name="NAME_DOMAINE_MTX" array="False" description="" group="Défaut" null="False" />
+  <Variable name="new_password_deux_Users" array="False" description="" group="Défaut" null="False" />
+  <Variable name="new_password_un_Users" array="False" description="" group="Défaut" null="False" />
+  <Variable name="new_user_Users" array="False" description="" group="Défaut" null="False" />
+  <Variable name="nom_var" array="False" description="" group="Défaut" null="False" />
+  <Variable name="open_mantrix_domaine_verif" array="False" description="Au demarrage de Mantrix le systeme va verifier si un domaine a été créer. Si c'est le cas une autre fenetre d'ouverture de session apparaitera" group="Défaut" null="False" />
+  <Variable name="prenom_var" array="False" description="" group="Défaut" null="False" />
+  <Variable name="process_prog_antivirus" array="False" description="" group="Défaut" null="False" />
+  <Variable name="process_prog_applimove" array="False" description="" group="Défaut" null="False" />
+  <Variable name="process_prog_gestfiles" array="False" description="" group="Défaut" null="False" />
+  <Variable name="process_prog_gestusers" array="False" description="" group="Défaut" null="False" />
+  <Variable name="process_prog_navigweb" array="False" description="" group="Défaut" null="False" />
+  <Variable name="process_prog_terminal" array="False" description="" group="Défaut" null="False" />
+  <Variable name="process_prog_texteditor" array="False" description="" group="Défaut" null="False" />
+  <Variable name="process_prog_userrenseign" array="False" description="" group="Défaut" null="False" />
+  <Variable name="START__CORE" array="False" description="" group="Défaut" null="False" />
+  <Variable name="START__DEV" array="False" description="" group="Défaut" null="False" />
+  <Variable name="START__HOME" array="False" description="" group="Défaut" null="False" />
+  <Variable name="START__SONS" array="False" description="" group="Défaut" null="False" />
+  <Variable name="START__SYSTEM" array="False" description="Verifie si le dossier System existe" group="Défaut" null="False" />
+  <Variable name="START__TMP" array="False" description="" group="Défaut" null="False" />
+  <Variable name="START__USERS" array="False" description="" group="Défaut" null="False" />
+  <Variable name="status_var" array="False" description="" group="Défaut" null="False" />
+  <Variable name="Temp_accInCreatorInterfaceUX" array="False" description="Programme tier permettant la creation d'un raccourcie bureau format icone, reservé et développé pat Bokdu76, reservés et protégé" group="Défaut" null="False" />
+  <Variable name="Temp_aidesmantrix_infinitybar" array="False" description="Aides de Mantrix ERX (base d'aide hors ligne)" group="Défaut" null="False" />
+  <Variable name="Temp_antivirus" array="False" description="" group="Défaut" null="False" />
+  <Variable name="Temp_antivirus_barre" array="False" description="" group="Défaut" null="False" />
+  <Variable name="Temp_apercu_trois_et_D" array="False" description="3D" group="Défaut" null="False" />
+  <Variable name="Temp_applicaionsdownload" array="False" description="" group="Défaut" null="False" />
+  <Variable name="Temp_changed_desktop_image" array="False" description="fenetre de modification des fonds d'ecrans de la session personnel et la resolution d'ecran non automatique" group="Défaut" null="False" />
+  <Variable name="Temp_Cloudappli" array="False" description="" group="Défaut" null="False" />
+  <Variable name="Temp_configinternetsystem" array="False" description="" group="Défaut" null="False" />
+  <Variable name="Temp_creerdomaine" array="False" description="" group="Défaut" null="False" />
+  <Variable name="Temp_domaine_mantrix_patch" array="False" description="" group="Défaut" null="False" />
+  <Variable name="Temp_firewall" array="False" description="" group="Défaut" null="False" />
+  <Variable name="Temp_Form" array="False" description="Est égale à la fenêtre ajouté au conteneur multi-documents" group="Défaut" null="False" />
+  <Variable name="Temp_game_vb_mordus" array="False" description="Jeu officiel MORDUS développé en VB.NET par AlgoStep pour Mantrix ERS" group="Défaut" null="False" />
+  <Variable name="Temp_game_vb_piano" array="False" description="Second jeu de Mantrix développé par AlgoStep Company, version de demonstration uniquement" group="Défaut" null="False" />
+  <Variable name="Temp_gameone_demineur" array="False" description="" group="Défaut" null="False" />
+  <Variable name="Temp_gestionfichiersdossiersperso" array="False" description="" group="Défaut" null="False" />
+  <Variable name="Temp_gestionnaire_applis_professionnalcore" array="False" description="" group="Défaut" null="False" />
+  <Variable name="Temp_GestTache_taskbox" array="False" description="" group="Défaut" null="False" />
+  <Variable name="Temp_ico_bureautique" array="False" description="" group="Défaut" null="False" />
+  <Variable name="Temp_ico_firewall" array="False" description="icone pare-feu" group="Défaut" null="False" />
+  <Variable name="Temp_joindredomaine" array="False" description="" group="Défaut" null="False" />
+  <Variable name="Temp_manavigweb" array="False" description="" group="Défaut" null="False" />
+  <Variable name="Temp_presentationmantrix" array="False" description="Fenetre de demarrage de session ouverte automatiquement pour presenter Mantrix" group="Défaut" null="False" />
+  <Variable name="Temp_protocoleftp" array="False" description="" group="Défaut" null="False" />
+  <Variable name="Temp_sdkconfig_troisD" array="False" description="Parametres 3D du SDK (4.2.5)" group="Défaut" null="False" />
+  <Variable name="Temp_ServicesNoyau_Systeme" array="False" description="" group="Défaut" null="False" />
+  <Variable name="Temp_soudnmodifierapplets" array="False" description="" group="Défaut" null="False" />
+  <Variable name="Temp_terminal_systemeosprog" array="False" description="Terminal officiel par Package de l OS Mantrix" group="Défaut" null="False" />
+  <Variable name="Temp_texteditor" array="False" description="fenetre equivalente a bloc-notes" group="Défaut" null="False" />
+  <Variable name="Temp_userrenseignements_sessionperso" array="False" description="" group="Défaut" null="False" />
+  <Variable name="Temp_Usersgestion" array="False" description="" group="Défaut" null="False" />
+  <Variable name="Temp_verouillage_infos" array="False" description="" group="Défaut" null="False" />
+  <Variable name="Term_dossiercompte" array="False" description="" group="Défaut" null="True" />
+  <Variable name="Term_passwdcompte" array="False" description="" group="Défaut" null="True" />
+  <Variable name="Term_usercompte" array="False" description="" group="Défaut" null="True" />
+  <Variable name="texte_in_terminalbox" array="False" description="textes et commandes écritent dans le terminal" group="Défaut" null="False" />
+  <Variable name="user_asupprimer" array="False" description="" group="Défaut" null="False" />
+  <Variable name="username_connexion" array="False" description="" group="Défaut" null="False" />
+  <Variable name="username_restriction" array="False" description="Variable abritant le nom de compte d'un utilisateur à restreindre" group="Défaut" null="False" />
+  <Variable name="userpassword_connexion" array="False" description="" group="Défaut" null="False" />
+  <Variable name="usrx_domaine_facultatif" array="False" description="" group="Défaut" null="False" />
+  <Variable name="Verif_dossier_desktop" array="False" description="" group="Défaut" null="False" />
+  <Variable name="Verif_dossier_persousers" array="False" description="" group="Défaut" null="False" />
+  <Variable name="verif_ico_bureautique" array="False" description="" group="Défaut" null="False" />
+  <Variable name="verif_ico_firewall" array="False" description="" group="Défaut" null="False" />
+  <Variable name="verif_ico_internet" array="False" description="" group="Défaut" null="False" />
+  <Variable name="verif_ico_parametres" array="False" description="" group="Défaut" null="False" />
+  <Variable name="verify_domnameconf" array="False" description="" group="Défaut" null="False" />
+  <Variable name="verify_hostnameconf" array="False" description="" group="Défaut" null="False" />
+  <Variable name="ville_var" array="False" description="" group="Défaut" null="False" />
+  <Variable name="Voir_maskcinq" array="False" description="" group="Défaut" null="False" />
+  <Variable name="Voir_maskdeux" array="False" description="" group="Défaut" null="False" />
+  <Variable name="Voir_maskhuit" array="False" description="Image OFFSCREEN (facultatif variable)" group="Défaut" null="False" />
+  <Variable name="Voir_maskquatre" array="False" description="" group="Défaut" null="False" />
+  <Variable name="Voir_masksept" array="False" description="" group="Défaut" null="False" />
+  <Variable name="Voir_masksix" array="False" description="" group="Défaut" null="False" />
+  <Variable name="Voir_masktrois" array="False" description="" group="Défaut" null="False" />
+  <Variable name="Voir_maskun" array="False" description="" group="Défaut" null="False" />
+  <Variable name="widg_calendrierprocess" array="False" description="" group="Défaut" null="False" />
+  <Variable name="widg_memotextedesktop" array="False" description="" group="Défaut" null="False" />
+  <Variable name="Xserver_starting" array="False" description="" group="Défaut" null="False" />
+  <Resource name="apercu_cinq" type="1" value="Ressources\apercu_cinq.jpg" />
+  <Resource name="apercu_deux" type="1" value="Ressources\apercu_deux.jpg" />
+  <Resource name="apercu_dix" type="1" value="Ressources\apercu_dix.jpg" />
+  <Resource name="apercu_douze" type="1" value="Ressources\apercu_douze.jpg" />
+  <Resource name="apercu_huit" type="1" value="Ressources\apercu_huit.jpg" />
+  <Resource name="apercu_neuf" type="1" value="Ressources\apercu_neuf.jpg" />
+  <Resource name="apercu_onze" type="1" value="Ressources\apercu_onze.jpg" />
+  <Resource name="apercu_quatre" type="1" value="Ressources\apercu_quatre.jpg" />
+  <Resource name="apercu_sept" type="1" value="Ressources\apercu_sept.jpg" />
+  <Resource name="apercu_six" type="1" value="Ressources\apercu_six.jpg" />
+  <Resource name="apercu_trois" type="1" value="Ressources\apercu_trois.jpg" />
+  <Resource name="apercu_un" type="1" value="Ressources\apercu_un.jpg" />
+  <Resource name="bm__agrandir" type="1" value="Ressources\bm__agrandir.JPG" />
+  <Resource name="bm__agrandir_effets" type="1" value="Ressources\bm__agrandir_effets.jpg" />
+  <Resource name="bm__barre_titre" type="1" value="Ressources\bm__barre_titre.JPG" />
+  <Resource name="bm__fermer" type="1" value="Ressources\bm__fermer.JPG" />
+  <Resource name="bm__fermer_effets" type="1" value="Ressources\bm__fermer_effets.jpg" />
+  <Resource name="bm__reduire" type="1" value="Ressources\bm__reduire.JPG" />
+  <Resource name="bm__reduire_effets" type="1" value="Ressources\bm__reduire_effets.jpg" />
+  <Resource name="cobber_effets_manavigweb" type="1" value="Ressources\cobber_effets_manavigweb.gif" />
+  <Resource name="cobber_manavigweb" type="1" value="Ressources\cobber_manavigweb.jpg" />
+  <Resource name="coober_desktopreturn" type="1" value="Ressources\coober_desktopreturn.jpg" />
+  <Resource name="coober_effets_desktopreturn" type="1" value="Ressources\coober_effets_desktopreturn.gif" />
+  <Resource name="cursormantrix" type="2" value="Ressources\cursormantrix.cur" />
+  <Resource name="cursormantrix_ani" type="2" value="Ressources\cursormantrix_ani.ani" />
+  <Resource name="cursormantrix_gif" type="2" value="Ressources\cursormantrix_gif.gif" />
+  <Resource name="cursormantrix_ico" type="2" value="Ressources\cursormantrix_ico.ico" />
+  <Resource name="domaine_creation_ok" type="1" value="Ressources\domaine_creation_ok.jpg" />
+  <Resource name="dossierimg" type="1" value="Ressources\dossierimg.jpg" />
+  <Resource name="dossierimg_divers" type="1" value="Ressources\dossierimg_divers.jpg" />
+  <Resource name="dossierimg_images" type="1" value="Ressources\dossierimg_images.jpg" />
+  <Resource name="dossierimg_musiques" type="1" value="Ressources\dossierimg_musiques.jpg" />
+  <Resource name="dossierimg_videos" type="1" value="Ressources\dossierimg_videos.jpg" />
+  <Resource name="fond_cinq" type="1" value="Ressources\fond_cinq.jpg" />
+  <Resource name="fond_deux" type="1" value="Ressources\fond_deux.jpg" />
+  <Resource name="fond_dix" type="1" value="Ressources\fond_dix.jpg" />
+  <Resource name="fond_ecran_defaut_ERS" type="1" value="Ressources\fond_ecran_defaut_ERS.jpg" />
+  <Resource name="fond_huit" type="1" value="Ressources\fond_huit.jpg" />
+  <Resource name="fond_neuf" type="1" value="Ressources\fond_neuf.jpg" />
+  <Resource name="fond_onze" type="1" value="Ressources\fond_onze.jpg" />
+  <Resource name="fond_quatre" type="1" value="Ressources\fond_quatre.jpg" />
+  <Resource name="fond_sept" type="1" value="Ressources\fond_sept.jpg" />
+  <Resource name="fond_six" type="1" value="Ressources\fond_six.jpg" />
+  <Resource name="fond_trois" type="1" value="Ressources\fond_trois.jpg" />
+  <Resource name="fond_un" type="1" value="Ressources\fond_un.jpg" />
+  <Resource name="funny_desktopreturn" type="1" value="Ressources\funny_desktopreturn.jpg" />
+  <Resource name="funny_effets_desktopreturn" type="1" value="Ressources\funny_effets_desktopreturn.jpg" />
+  <Resource name="funny_effets_fiances" type="1" value="Ressources\funny_effets_fiances.jpg" />
+  <Resource name="funny_effets_manavigweb" type="1" value="Ressources\funny_effets_manavigweb.jpg" />
+  <Resource name="funny_effets_meteo" type="1" value="Ressources\funny_effets_meteo.jpg" />
+  <Resource name="funny_fiances" type="1" value="Ressources\funny_fiances.jpg" />
+  <Resource name="funny_manavigweb" type="1" value="Ressources\funny_manavigweb.jpg" />
+  <Resource name="funny_meteo" type="1" value="Ressources\funny_meteo.jpg" />
+  <Resource name="ico_antivirus" type="1" value="Ressources\ico_antivirus.jpg" />
+  <Resource name="ico_applications_ico" type="1" value="Ressources\ico_applications_ico.jpg" />
+  <Resource name="ico_blocnotes_ico" type="1" value="Ressources\ico_blocnotes_ico.jpg" />
+  <Resource name="ico_cloud_ico" type="1" value="Ressources\ico_cloud_ico.jpg" />
+  <Resource name="ico_delete" type="1" value="Ressources\ico-delete.gif" />
+  <Resource name="ico_done" type="1" value="Ressources\ico-done.gif" />
+  <Resource name="ico_gamers" type="1" value="Ressources\ico_gamers.jpg" />
+  <Resource name="ico_parefeu" type="1" value="Ressources\ico_parefeu.jpg" />
+  <Resource name="join_domaine_alerte_screen" type="1" value="Ressources\join_domaine_alerte_screen.jpg" />
+  <Resource name="logo_software" type="1" value="Ressources\logo_software.gif" />
+  <Resource name="logoofficielmantrix_petit" type="1" value="Ressources\logoofficielmantrix_petit.png" />
+  <Resource name="orange_death" type="1" value="Ressources\orange_death.jpg" />
+  <Resource name="orange_death_core" type="1" value="Ressources\orange_death_core.jpg" />
+  <Resource name="orange_death_dev" type="1" value="Ressources\orange_death_dev.jpg" />
+  <Resource name="orange_death_home" type="1" value="Ressources\orange_death_home.jpg" />
+  <Resource name="orange_death_sons" type="1" value="Ressources\orange_death_sons.jpg" />
+  <Resource name="orange_death_tmp" type="1" value="Ressources\orange_death_tmp.jpg" />
+  <Resource name="orange_death_users" type="1" value="Ressources\orange_death_users.jpg" />
+  <Resource name="orange_death_viergedefaut" type="1" value="Ressources\orange_death_viergedefaut.jpg" />
+  <Resource name="reseau_attbox" type="1" value="Ressources\reseau_attbox.gif" />
+  <Resource name="screen_dixhuit" type="1" value="Ressources\screen_dixhuit.jpg" />
+  <Resource name="screen_dixneuf" type="1" value="Ressources\screen_dixneuf.jpg" />
+  <Resource name="screen_dixsept" type="1" value="Ressources\screen_dixsept.jpg" />
+  <Resource name="screen_quatorze" type="1" value="Ressources\screen_quatorze.jpg" />
+  <Resource name="screen_quinze" type="1" value="Ressources\screen_quinze.jpg" />
+  <Resource name="screen_seize" type="1" value="Ressources\screen_seize.jpg" />
+  <Resource name="screen_treize" type="1" value="Ressources\screen_treize.jpg" />
+  <Resource name="screen_vingt" type="1" value="Ressources\screen_vingt.jpg" />
+  <Resource name="screen_vingtdeux" type="1" value="Ressources\screen_vingtdeux.jpg" />
+  <Resource name="screen_vingtquatre" type="1" value="Ressources\screen_vingtquatre.jpg" />
+  <Resource name="screen_vingttrois" type="1" value="Ressources\screen_vingttrois.jpg" />
+  <Resource name="screen_vingtun" type="1" value="Ressources\screen_vingtun.jpg" />
+  <Resource name="shutdown_session_dooglebar" type="1" value="Ressources\shutdown_session_dooglebar.jpg" />
+  <Resource name="stop_infinitydesktop_alerte_activX" type="1" value="Ressources\stop_infinitydesktop_alerte_activX.jpg" />
+  <Resource name="yeux_anime_irisbar" type="1" value="Ressources\yeux_anime_irisbar.gif" />
+  <Resource name="yeux_irisbar_fixe_sur_souris" type="1" value="Ressources\yeux_irisbar_fixe_sur_souris.JPG" />
+  <Statistic xvalue="41332" yvalue="42" type="0" />
+  <Statistic xvalue="41333" yvalue="18" type="0" />
+  <Statistic xvalue="41333" yvalue="2" type="1" />
+  <Statistic xvalue="41334" yvalue="22" type="0" />
+  <Statistic xvalue="41335" yvalue="5" type="0" />
+  <Statistic xvalue="41336" yvalue="4" type="0" />
+  <Statistic xvalue="41337" yvalue="7" type="0" />
+  <Statistic xvalue="41337" yvalue="1" type="1" />
+  <Statistic xvalue="41338" yvalue="20" type="0" />
+  <Statistic xvalue="41339" yvalue="6" type="1" />
+  <Statistic xvalue="41339" yvalue="18" type="0" />
+  <Statistic xvalue="41341" yvalue="12" type="0" />
+  <Statistic xvalue="41341" yvalue="1" type="1" />
+  <Statistic xvalue="41343" yvalue="2" type="0" />
+  <Statistic xvalue="41344" yvalue="6" type="0" />
+  <Statistic xvalue="41346" yvalue="7" type="0" />
+  <Statistic xvalue="41347" yvalue="6" type="0" />
+  <Statistic xvalue="41348" yvalue="1" type="0" />
+  <Statistic xvalue="41359" yvalue="5" type="0" />
+  <Statistic xvalue="41360" yvalue="2" type="0" />
+  <Statistic xvalue="41366" yvalue="1" type="0" />
+  <Statistic xvalue="41369" yvalue="1" type="0" />
+  <Statistic xvalue="41372" yvalue="5" type="0" />
+  <Statistic xvalue="41373" yvalue="1" type="0" />
+  <Statistic xvalue="41374" yvalue="3" type="0" />
+  <Statistic xvalue="41380" yvalue="1" type="0" />
+  <Statistic xvalue="41381" yvalue="1" type="0" />
+  <Statistic xvalue="41382" yvalue="1" type="0" />
+  <Reference isproject="False" value="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="mscorlib" copy="False" version="4.0.0.0" />
+  <Reference isproject="False" value="System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="System" copy="False" version="4.0.0.0" />
+  <Reference isproject="False" value="System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="System.Core" copy="False" version="4.0.0.0" />
+  <Reference isproject="False" value="System.Design, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" name="System.Design" copy="False" version="4.0.0.0" />
+  <Reference isproject="False" value="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" name="System.Drawing" copy="False" version="4.0.0.0" />
+  <Reference isproject="False" value="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="System.Windows.Forms" copy="False" version="4.0.0.0" />
+  <Reference isproject="False" value="System.Windows.Forms.DataVisualization, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" name="System.Windows.Forms.DataVisualization" copy="False" version="4.0.0.0" />
+  <Reference isproject="False" value="System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="System.Xml" copy="False" version="4.0.0.0" />
+  <Reference isproject="False" value="VelerSoftware.FTPLib.dll" name="VelerSoftware.FTPLib" copy="True" version="1.0.0.0" />
+</SZProject>
